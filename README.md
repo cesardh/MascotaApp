@@ -1,0 +1,2 @@
+# MascotaApp
+Avatar canino interactivo
